@@ -14,6 +14,10 @@ The codeblocks and their functionality are detailed below
 - Load generator model and generate 50k images (This will generate the set of images required to calculate a FID score)
 - Save real CIFAR10 images in preparation of FID score calculation
 - Calculate FID score
+- Install required libraries for DDPM FID score
+- Load DDPM model
+- Save DDPM generated images
+- Calculate DDPM FID score
 
 Tweakable variables:
 
