@@ -22,7 +22,9 @@ The codeblocks and their functionality are detailed below
 Tweakable variables:
 
 nEpochs - Default: 100, will determine how long training takes
+
 nSnapshots - Default: 100, will determine how often snapshots of the generator model are taken (Every n epochs)
+
 epochModel - Default 100, determines which pretrained model will be loaded to generate images
 
 Of the pretrained models included in our repo, generator_epochs_100.pth is recommended to use for all purposes
